@@ -1,6 +1,19 @@
 # Bioskop Ticket
 
+Tech Stack :
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ![GORM](https://img.shields.io/badge/GORM-0D8ABC?style=for-the-badge&logo=go&logoColor=white)
+- ![PosgreSql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
 Name : Feri Susmiyanto
+
+Flow System Design :
+
+![flowchart-system-design.png](./flowchart-system-design.png)
+
+ERD : 
+![ERD-bioskop-ticket.png](./ERD-bioskop-ticket.png)
 
 
 ## Set up local :
